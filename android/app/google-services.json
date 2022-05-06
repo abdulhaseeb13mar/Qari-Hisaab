@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196373421298",
+    "project_id": "qarihisaab",
+    "storage_bucket": "qarihisaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196373421298:android:5bb3e8cc0e52dd8e39c46b",
+        "android_client_info": {
+          "package_name": "com.qarihisaab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196373421298-gsdmie9596pe0vrqmchpq73ptmef6jpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizZODJdk3hCoOR1Yn0wqBp3-9ub2hsMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196373421298-gsdmie9596pe0vrqmchpq73ptmef6jpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
